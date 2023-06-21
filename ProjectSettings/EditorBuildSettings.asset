@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/GameMenu/Menu.unity
+    guid: a5e576bbf7ebb564a8426737bdef9c2b
+  - enabled: 1
+    path: Assets/Difficulty/SetDifficultly.unity
+    guid: 5c3ac5d200ca2b244aba8babc33de9f4
+  - enabled: 1
+    path: Assets/NewGameMenu/NewGameMenu.unity
+    guid: 1ce8c0e0d11d56243ae0f420d675fcd0
+  - enabled: 1
+    path: Assets/CharacterCreation/CreaterHero.unity
+    guid: c333802fdaeee8246a6aa9b42d6a3d4b
+  - enabled: 1
+    path: Assets/LVL/SelectLevelMenu/SelectLevelMenu.unity
+    guid: 1cbd297ad390eef4b886ec15af8cc695
+  - enabled: 1
+    path: Assets/LVL/Level1.1/LevelMap/LevelMap1.unity
+    guid: 563104676f8a9764d9c10c25ea852ece
+  - enabled: 1
+    path: Assets/LVL/Level1.1/LevelMap/LevelStart/Level1Fight1.unity
+    guid: 36ae483651755c643ae98333018834e9
+  - enabled: 1
+    path: Assets/LVL/Level1.1/LevelMap/LevelUpperFight/Level1UpperFight.unity
+    guid: eb17f7175ec2ced449ae2868b41fc7ec
+  - enabled: 1
+    path: Assets/LVL/Level1.1/LevelMap/LevelMiddleFight1/Level1MiddleFight1.unity
+    guid: cb2c8413a9f39b9479f1a7cf2a10c977
+  - enabled: 1
+    path: Assets/LVL/Level1.1/LevelMap/LevelMiddleFight2/Level1MiddleFight2.unity
+    guid: 3ae6f863b6f3a0a40ae56e048d99fb8f
+  - enabled: 1
+    path: Assets/LVL/Level1.1/LevelMap/LevelUnderFight1/Level1UnderFight1.unity
+    guid: 19d1a6fee2749694aac161dea025d417
+  - enabled: 1
+    path: Assets/LVL/Level1.1/LevelMap/LevelUnderFight2/Level1UnderFight2.unity
+    guid: faf73b8633aee164d86769d28c2082e4
+  - enabled: 1
+    path: Assets/LVL/Level1.1/LevelMap/LevelUnderFight3/Level1UnderFight3.unity
+    guid: 213d6f8896cf7a0449c72acf5ffd0b65
+  - enabled: 1
+    path: Assets/LVL/Level1.1/LevelMap/LevelCamp/Level1Camp.unity
+    guid: fbcdaee01c5f06a4d9872e2d3e5fb8f1
+  - enabled: 1
+    path: Assets/LVL/Level1.1/LevelMap/LevelBossFight/Level1BossFight.unity
+    guid: 6445128ec59e6b64c870f46f0d15c4b2
+  - enabled: 1
+    path: Assets/LVL/Level2.1/LevelMap/LevelStart/Level2Fight1.unity
+    guid: 7bc6f8b77f1afea439bbc17611f82fea
+  - enabled: 1
+    path: Assets/LVL/Level2.1/LevelMap/LevelUnderFight1/Level2UnderFight1.unity
+    guid: f4562c0f1b1e2bb449a5f2538798e43b
+  - enabled: 1
+    path: Assets/LVL/Level2.1/LevelMap/LevelUnderFight2/Level2UnderFight2.unity
+    guid: 0c3fd4fd3d5094841a2376999f150579
+  - enabled: 1
+    path: Assets/LVL/Level2.1/LevelMap/LevelUnderFight3/Level2UnderFight3.unity
+    guid: 76c7d496609a9a74bb28a4e4a017622b
+  - enabled: 1
+    path: Assets/LVL/Level2.1/LevelMap/LevelUpperFight/Level2UpperFight.unity
+    guid: bc4ba9c36d0f42540be19b7161977fa7
+  - enabled: 1
+    path: Assets/LVL/Level2.1/LevelMap/LevelMiddleFight2/Level2MiddleFight2.unity
+    guid: 6ee43edd48aead044890299b449cb384
+  - enabled: 1
+    path: Assets/LVL/Level2.1/LevelMap/LevelMiddleFight1/Level2MiddleFight1.unity
+    guid: e3bb8517946dbf744977f1186f23c9a1
+  - enabled: 1
+    path: Assets/LVL/Level2.1/LevelMap/LevelCamp/Level2Camp.unity
+    guid: fc82d67043ecbf2468bdcd5b2223509e
+  - enabled: 1
+    path: Assets/LVL/Level2.1/LevelMap/LevelBossFight/Level2BossFight.unity
+    guid: 3b1c129d03f48524aac878d77ae699ee
+  - enabled: 1
+    path: Assets/LVL/Level2.1/LevelMap/LevelMap2.unity
+    guid: 599b7a5663cf71c4b83a8f5f64c79d12
+  - enabled: 1
+    path: Assets/LVL/Level3.1/LevelMap/LevelMap3.unity
+    guid: 8188894943f52894fa3b00d0bc8d771b
+  - enabled: 1
+    path: Assets/LVL/Level3.1/LevelMap/LevelBossFight/Level3BossFight.unity
+    guid: 06d11c18a36c9f441891dadaa6f197a0
+  - enabled: 1
+    path: Assets/LVL/Level3.1/LevelMap/LevelCamp/Level3Camp.unity
+    guid: 9a7011ae1fdf7014c8107161d33fc4c0
+  - enabled: 1
+    path: Assets/LVL/Level3.1/LevelMap/LevelMiddleFight1/Level3MiddleFight1.unity
+    guid: 8fbaeb2cf2243fa48adc37db4ece7c8d
+  - enabled: 1
+    path: Assets/LVL/Level3.1/LevelMap/LevelMiddleFight2/Level3MiddleFight2.unity
+    guid: 00ea0aef0156a19429730b27b190857f
+  - enabled: 1
+    path: Assets/LVL/Level3.1/LevelMap/LevelStart/Level3Fight1.unity
+    guid: f2fce80944f90bd41a0422a282ac109a
+  - enabled: 1
+    path: Assets/LVL/Level3.1/LevelMap/LevelUnderFight1/Level3UnderFight1.unity
+    guid: 244cb41d8495b394dba116c2fcb1eb12
+  - enabled: 1
+    path: Assets/LVL/Level3.1/LevelMap/LevelUnderFight2/Level3UnderFight2.unity
+    guid: ca354efb25c4f2b478ab666b45e21200
+  - enabled: 1
+    path: Assets/LVL/Level3.1/LevelMap/LevelUnderFight3/Level3UnderFight3.unity
+    guid: 676de55c8ac226048933c0f3d5fa3240
+  - enabled: 1
+    path: Assets/LVL/Level3.1/LevelMap/LevelUpperFight/Level3UpperFight.unity
+    guid: b91a1f2556400254c9c1f91befb83801
+  - enabled: 1
+    path: Assets/LVL/Level4.1/LevelMap/LevelMap4.unity
+    guid: 00c84f89fb96f2f4daf732069655482a
+  - enabled: 1
+    path: Assets/LVL/Level4.1/LevelMap/LevelBossFight/Level4BossFight.unity
+    guid: 84168294f848d8b4ca6e6cb777676289
+  - enabled: 1
+    path: Assets/LVL/Level4.1/LevelMap/LevelCamp/Level4Camp.unity
+    guid: 7a9f7027e00b4714fa41f1ea6ed257ee
+  - enabled: 1
+    path: Assets/LVL/Level4.1/LevelMap/LevelMiddleFight1/Level4MiddleFight1.unity
+    guid: bd29cff2f1f593b4cadc411ac6ae314b
+  - enabled: 1
+    path: Assets/LVL/Level4.1/LevelMap/LevelMiddleFight2/Level4MiddleFight2.unity
+    guid: 2daa1745825a31b499d0ab177e6c817b
+  - enabled: 1
+    path: Assets/LVL/Level4.1/LevelMap/LevelStart/Level4Fight1.unity
+    guid: 4fcdf87fdb37bce4da6129ba2679d658
+  - enabled: 1
+    path: Assets/LVL/Level4.1/LevelMap/LevelUnderFight1/Level4UnderFight1.unity
+    guid: aad7b2633ee7a0c45a29e327e5a7a067
+  - enabled: 1
+    path: Assets/LVL/Level4.1/LevelMap/LevelUnderFight2/Level4UnderFight2.unity
+    guid: 848aa569dd614a64e960bfb29ec8bcf3
+  - enabled: 1
+    path: Assets/LVL/Level4.1/LevelMap/LevelUnderFight3/Level4UnderFight3.unity
+    guid: 75df8fc19763c9f4194b8d917666c8bd
+  - enabled: 1
+    path: Assets/LVL/Level4.1/LevelMap/LevelUpperFight/Level4UpperFight.unity
+    guid: 36fd1c760f5489a40ba72601727ffbb8
+  - enabled: 1
+    path: Assets/LVL/Level5.1/LevelMap/LevelMap5.unity
+    guid: 2461390347894cc4c936378169d8f3f2
+  - enabled: 1
+    path: Assets/LVL/Level5.1/LevelMap/LevelBossFight/Level5BossFight.unity
+    guid: f789df305b1a36d49ad0229d87e1dd04
+  - enabled: 1
+    path: Assets/LVL/Level5.1/LevelMap/LevelCamp/Level5Camp.unity
+    guid: 9f6b06f27ba204d4dadbd7101fa2eebb
+  - enabled: 1
+    path: Assets/LVL/Level5.1/LevelMap/LevelMiddleFight1/Level5MiddleFight1.unity
+    guid: 743dc11ec862b30499de4ae3f2a0d34a
+  - enabled: 1
+    path: Assets/LVL/Level5.1/LevelMap/LevelMiddleFight2/Level5MiddleFight2.unity
+    guid: 9baabab6ef581ba40bc0ed4d8e462174
+  - enabled: 1
+    path: Assets/LVL/Level5.1/LevelMap/LevelStart/Level5Fight1.unity
+    guid: db99d06dff6db484f9b89b970a66f479
+  - enabled: 1
+    path: Assets/LVL/Level5.1/LevelMap/LevelUnderFight1/Level5UnderFight1.unity
+    guid: 895d9d3a56adc7645bed1ba8feddc074
+  - enabled: 1
+    path: Assets/LVL/Level5.1/LevelMap/LevelUnderFight2/Level5UnderFight2.unity
+    guid: ed361877b08da0a48b6dcb8fbcf93fee
+  - enabled: 1
+    path: Assets/LVL/Level5.1/LevelMap/LevelUnderFight3/Level5UnderFight3.unity
+    guid: 9b83ef2c2e6e63042bd7a20a7364a125
+  - enabled: 1
+    path: Assets/LVL/Level5.1/LevelMap/LevelUpperFight/Level5UpperFight.unity
+    guid: 9317e2cb2cded5f43bee99ffb9b5b932
+  m_configObjects: {}
